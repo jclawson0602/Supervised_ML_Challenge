@@ -1,5 +1,5 @@
 Supervised Machine Learning Challenge Analysis
-*----------*
+--------------------------------------------------
 The purpose of our analysis is to determine whether a logistic regression model trained on historical lending activity gathered from a peer-to-peer lending services company can be used to identify the creditworthiness of our borrowers.
 
 The Results of Our Report:
