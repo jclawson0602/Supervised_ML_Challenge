@@ -2,6 +2,7 @@ Supervised Machine Learning Challenge Analysis
 The purpose of our analysis is to determine whether a logistic regression model trained on historical lending activity gathered from a peer-to-peer lending services company can be used to identify the creditworthiness of our borrowers.
 
 The Results of Our Report:
+
 •	Accuracy Score: For all our model’s observations, it is correct 99% of the time in predicting whether a loan is truly healthy or has a high risk of defaulting.  
 •	Precision Score: For all loans classified correctly and incorrectly as being healthy, our model is 100% precise in predicting healthy loans correctly. And for all loans classified correctly and incorrectly as high-risk, our model is 85% precise in predicting high-risk loans correctly.  
 •	Recall Score: For all predicted loans classified correctly as healthy and incorrectly as high-risk, our model is 99% correct in predicting healthy loans correctly. And for all predicted loans classified correctly as high-risk and incorrectly as healthy, our model is 91% correct in predicting high-risk loans correctly.
